@@ -1,0 +1,11 @@
+$ENV{'ORACLE_HOME'} = "/oracle/product/root1";
+$ENV{'TNS_ADMIN'} = "/oracle/local/dat";
+$ENV{'PATH'} = "/bin:/usr/bin:/usr/ucb:/etc:.:/oracle/local/bin:/usr/ccs/bin";
+$ENV{'NLS_LANG_DEFAULT'} = "AMERICAN_AMERICA.WE8ISO8859P1";
+$ENV{'NLS_DTAE_FORMAT'} = "DD/MM/YYYY";
+$ENV{'ORACLE_PATH'} = ".:/oracle/local/sql";
+$ENV{'ORA_LLY_SCRIPTS'} = "/oracle/local/scripts";
+$ENV{'ORA_LLY_SQL'} = "/oracle/local/sql";
+$ENV{'ORA_LLY_LOG'} = "/oracle/local/log";
+$ENV{'ORA_LLY_DAT'} = "/oracle/local/dat";
+$ENV{'ORACLE_TERM'} = "vt100";

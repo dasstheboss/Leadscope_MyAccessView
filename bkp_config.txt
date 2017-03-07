@@ -1,0 +1,10 @@
+driver = Oracle
+oracleEnvironment = /opt/lse/LeadscopeMyAccess/oracle_env.dat
+databaseServer = lennon.am.lilly.com
+databasePort = 1525
+database = prd558
+userID = LSE_ActiveScript
+passw0rd = Txtx_1234
+logPath = /opt/lse/LeadscopeMyAccess/log.txt
+checksumPath = /opt/lse/LeadscopeMyAccess/checkSum.txt
+xmlPath = /opt/lse/current/instances/4/resources/settings/LSEPreferences.xml
